@@ -7,7 +7,6 @@
 
 ### 🧠 Sobre mí
 
-- 🎯 Actualmente estoy perfeccionando habilidades en testing, DevOps y microservicios.
 - 💼 Experiencia previa como Analista de Sistemas, donde obtuve el certificado **IBM MQ Developer Essentials**.
 - 🚀 Busco crear soluciones eficientes, bien estructuradas y fáciles de mantener.
 
