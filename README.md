@@ -20,8 +20,8 @@
 ---
 
 ### 📫 Conecta conmigo:
-- LinkedIn: [linkedin.com/in/tomasgonzalez](https://linkedin.com/in/tomasgonzalez)
-- Email: tomas.gonzalez@email.com
+- LinkedIn: [linkedin.com/in/tomas-gonzalez-borje](https://www.linkedin.com/in/tomas-gonzalez-borje)
+- Email: t.gonzalezb24@gmail.com
 
 ---
 
