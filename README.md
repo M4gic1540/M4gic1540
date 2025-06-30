@@ -5,6 +5,19 @@
 
 ---
 
+### 🧠 Sobre mí
+
+- 🎯 Actualmente estoy perfeccionando habilidades en testing, DevOps y microservicios.
+- 💼 Experiencia previa como Analista de Sistemas, donde obtuve el certificado **IBM MQ Developer Essentials**.
+- 🚀 Busco crear soluciones eficientes, bien estructuradas y fáciles de mantener.
+
+---
+
+### 🧾 Certificaciones
+- 🏅 **IBM MQ Developer Essentials** – Otorgado mientras me desempeñaba como Analista de Sistemas.
+
+---
+
 ### 🚀 Tecnologías que uso:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/>
@@ -29,3 +42,6 @@
 - Testing con PyTest
 - Microservicios con Docker y FastAPI
 - Buenas prácticas DevOps con GitHub Actions
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasgonzalez&show_icons=true&theme=radical)
