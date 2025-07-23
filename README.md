@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Tomás González</h1>
-<h3 align="center">💻 Ingeniero en Informática - 29 años</h3>
+<h3 align="center">💻 Desarrollador - Full-stack - 29 años</h3>
 
 <p align="center">Apasionado por la tecnología, la programación limpia y el aprendizaje constante. Me especializo en desarrollo web y backend usando herramientas modernas como Django, React y Docker.</p>
 
